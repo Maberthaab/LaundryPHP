@@ -2,5 +2,5 @@
 Website Laundry dibuat menggunakan PHP dan database Mysql
 
 Untuk login ke website
-==>Username : Admin
+==>Username : Admin <br>
 ==>Password : Admin
